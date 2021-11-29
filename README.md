@@ -1,15 +1,11 @@
-Yo, I am not Davi 👽
+Yo, I am Matheus 👽
 
-🌱 Currently not learning React and improving my Javascript
+🌱 Currently learning Web developmet and improving my PHP
 
-👯 not Looking to collaborate on any project that makes me learn something
+👯 Looking to collaborate on any project that makes me learn something
 
-📫 How to don't reach me:
 
-Github Badge Linkedin Badge Twitter Badge Instagram Badge
+Formations that I have
 
-Formations that i don't have
+(3/4) IT technician by IFPE, Campus Garanhuns
 
-IT technician by IFCE, Campus Cedro
-
-(7/8) Bachelors in Information Systems at IFCE, Campus Cedro
